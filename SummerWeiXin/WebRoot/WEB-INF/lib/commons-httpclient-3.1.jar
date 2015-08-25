@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="boyone2009 电子书 手册 源码 CSDN 下载频道" />
+<meta content="boyone2009 电子书 手册 源码 CSDN 下载频道" name="keywords" />
+<link rel="Shortcut Icon" href="/avatar/boyone2009" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/detail.css" />
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen" />
+<script src="/js/thickbox.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/callback.js"></script>
+<script type="text/javascript" src="/js/up.js"></script>				
+<!--	
+	<script type="text/javascript" src="/js/userupdate.js"></script>
+	<script type='text/javascript' src='http://www.csdn.net/ggmm/csdn_ggmm.js'></script>
+-->
+	<script type="text/javascript">
+$(document).ready(function(){
+	$(".list-item").mouseover(function() {$(this).addClass("over");}).mouseout(function() 
+	{$(this).removeClass("over");});
+	/*
+	$.getScript("http://ratings.csdn.net/index.php?c=service&m=getRate&domain=download.csdn.net&list=/source/2752259|", function(){
+		mkratelist();
+	});
+	*/
+	
+});
+</script>
+    <link rel="stylesheet" type="text/css" href="/ui/styles/default/list.css" />
+	<link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="/rss/user/boyone2009"></link>
+    <title> boyone2009 CSDN 下载频道</title>
+    <link href="/ui/styles/default/page.css" rel="stylesheet" type="text/css" />
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-1076724771190722");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-1076724771190722", "down_other_mysource_76090");
+GA_googleAddSlot("ca-pub-1076724771190722", "down_other_mysource_wz");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+<div id="innerWrapper">
+	
+		
+<link rel="stylesheet" href="http://hi.csdn.net/js/gray.css" type="text/css" media="screen" />
+<div id="header">
+
+<div style="margin:0 auto; width:1000px; overflow:hidden; border-top:5px solid #2d9bc0;">
+<script src="http://csdnimg.cn/pubnav/js/pub_topnav_2011.js" type="text/javascript" ></script>
+</div>
+
+
+
+
+        <div class="clear"></div>
+        <div class="logoMenu">
+        	<div class="logo"><img alt="" src="/images/download_logo.gif" /></div>
+            <div class="menu">
+            	<ul>
+<li><a href="http://download.csdn.net/"><span>首 页</span></a></li>
+<li><a href="http://download.csdn.net/sort/iscommend/all/"><span>推荐资源</span></a></li>
+<li><a href="http://download.csdn.net/sort/new/all/"><span>最新资源</span></a></li>
+<li><a href="http://u.download.csdn.net/upfile"><span><img src="/images/uparrow.gif" width="12" border="0" />上传资源</span></a></li>
+<li><a href="http://download.csdn.net/rank"><span>排行榜</span></a></li>
+<script type="text/javascript">
+function getCookie(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+  if(arr!=null)return unescape(arr[2]);return null;}
+		var user=getCookie("UserName");
+		if(user && user!="Guest")
+		{
+		document.write("<li><a href='http://"+user+".download.csdn.net/'><span>我的资源</span></a></li>")
+		document.write("<li><a href='http://hi.csdn.net/my.html'><span>我的空间</span></a></li>");
+		}else{
+		document.write("<li><a href='http://passport.csdn.net/UserLogin.aspx?from="+window.location.href+"' target=_blank><span>登录</span></a></li>")
+		document.write("<li><a href='http://passport.csdn.net/CSDNUserRegister.aspx' target=_blank><span>免费注册</span></a></li>");
+		}
+</script>
+
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div> <div class="adLeft" id="div351">
+<script type='text/javascript'>
+GA_googleFillSlot("down_other_mysource_76090");
+</script>  
+</div>
+    <div class="adRight" id="div352">
+<script type='text/javascript'>
+GA_googleFillSlot("down_other_mysource_wz");
+</script>
+</div>
+    <div class="clear"></div>
+
+    <div id="mainWrapper">
+        <div id="pageContent">
+			<div id="innerContent">
+				<div id="searchbar">
+					<form action="/search.php" method="post" name="form1" id="form1" onsubmit="return yz(this);">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<img alt="" src="/ui/images/SearchZoom.gif" />
+						<input name="tagff" type="text" class="key" id="tagff" maxlength="20"/>
+						<input type="image" src="/ui/images/SearchBanner.gif"/>
+						&nbsp;&nbsp;<a href="http://search.download.csdn.net/advsearch" style="text-decoration:underline; color:#003366; ">高级搜索</a>
+				  </form>
+				 	
+				</div>
+			
+				<div class="listPageCaption">
+				<img alt="" src="/ui/images/iconListPageCaption.gif" />
+				正在浏览用户"<strong>boyone2009</strong>"发布的<strong>commons-httpclient-3.1.jar</strong>资源&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="/rss/user/boyone2009"><img src="/ui/images/rss_2.gif"  /></a>				
+						<span id="bb"></span>
+&nbsp;&nbsp;&nbsp;&nbsp;						
+				<span align="right"><a href="http://boyone2009.download.csdn.net"><font class="STYLE1">查看boyone2009的所有资源</font>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</span>
+				</div>
+				<!--
+				<div class="topic456">这个用户没有上传资源</div>
+				-->
+	
+				<div class="list-item">
+					<div class="left" >
+					<div class="prop"></div><p><em id="/source/2752259"></em>
+					<br/>
+					有<em id="clicknum2752259">23</em>人下载</p>
+					</div>
+					
+					<div class="right">
+						
+						<h3><a href="http://download.csdn.net/source/2752259">commons-httpclient-3.1.jar</a>
+												&nbsp;&nbsp;<img src="http://download.csdn.net/ui/images/money.gif" />2&nbsp;&nbsp;
+					
+																		
+						
+						
+						</h3>
+						<p>commons-httpclient-3.1.jar</p>
+						<div><em>Tag：</em>
+						<a href="http://download.csdn.net/sort/tag/commons-httpclient-3.1.jar">commons-httpclient-3.1.jar</a>&nbsp;&nbsp										&nbsp;<em>用户: </em><a href="http://boyone2009.download.csdn.net">boyone2009</a>	
+						 &nbsp;  <em>发布日期：</em>2010-10-13</div>
+					</div>
+				</div>
+								<div class="pagination">
+				   
+				 				</div>
+			</div>
+        </div>
+		<div id="sidebar"><dl>
+		<dt>关于boyone2009</dt>
+		<dd>
+		<div style="margin-top:-10px;">
+		<p style=" padding-top:10px; float:left; margin-bottom:0;">
+<a href="http://hi.csdn.net/boyone2009"><img id="smPic" alt="" class="personimg" style="cursor:pointer" src="/avatar/boyone2009/2"  /></a>
+		</p>		
+		<p id="spanscore" style=" float:right; padding-right:10px; margin-bottom:0;">
+等级：<img id="scorePic" alt="等级：5" src="/images/gradeicons/5.gif"><br>
+积分：<span class="red">1578</span>&nbsp;<br/>
+贡献分：<span class="red">1675</span>&nbsp;<br/>
+上传权限：<span class="red">35MB</span>&nbsp;<br/>
+上传资源<span class="red">99</span>个 
+<br/>下载资源<span class="red">3</span>个
+<br/><a href="http://download.csdn.net/rank">总排名</a>: 第<span class="red">2797</span>名		
+		</p>
+		
+		<div style="clear:both;"></div>
+		
+		</div>
+		</dd>
+			<dt>boyone2009的TAG</dt>
+			<dd>
+			    <ul>
+										<a href='/user/boyone2009/and'>and</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/JavaScript.pdf'>JavaScript.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2fs.jar'>db2fs.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/EJB_JPA数据库持久层开发详解.doc'>EJB_JPA数据库持久层开发详解.doc</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/MQSeries+编程模式.pdf'>MQSeries+编程模式.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/spring.jar'>spring.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jaas.jar'>jaas.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/安装程序'>安装程序</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-logging.jar'>commons-logging.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/设计原本(中文版).pdf'>设计原本(中文版).pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/V7'>V7</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/log4j-1.2.15.jar'>log4j-1.2.15.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-net-ftp-2.0.jar'>commons-net-ftp-2.0.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jgraph.jar'>jgraph.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jstl'>jstl</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/(JSP'>(JSP</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2jcc_javax.jar'>db2jcc_javax.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2java.jar'>db2java.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/oracleJar'>oracleJar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/activation.jar'>activation.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/activation'>activation</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/用到的jar包'>用到的jar包</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2qgjava.jar'>db2qgjava.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2jcc.jar'>db2jcc.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2jcc_license_cisuz.jar'>db2jcc_license_cisuz.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2jcc_license_cu.jar'>db2jcc_license_cu.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/db2policy.jar'>db2policy.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Standard'>Standard</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ant-1.6.5.jar'>ant-1.6.5.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/SWTResourceManager'>SWTResourceManager</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-discovery'>commons-discovery</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/apache-tomcat-6.0.18.zip'>apache-tomcat-6.0.18.zip</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ojdbc6.jar'>ojdbc6.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/WebSphere'>WebSphere</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Administration'>Administration</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Server'>Server</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Application'>Application</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/6安装包'>6安装包</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jre'>jre</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/，JSP标准标签库)'>，JSP标准标签库)</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Library'>Library</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Tag'>Tag</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jxl'>jxl</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/java操作excel表格的工具类库'>java操作excel表格的工具类库</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/plsqldev715'>plsqldev715</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/EJB3.0实例教程--黎活明.pdf'>EJB3.0实例教程--黎活明.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/EJB3.0入门经典-weblogic'>EJB3.0入门经典-weblogic</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ant-swing-1.6.5.jar'>ant-swing-1.6.5.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ant-antlr-1.6.5.jar'>ant-antlr-1.6.5.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/word办公技巧.doc'>word办公技巧.doc</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/增删查改事例'>增删查改事例</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/搜索引擎-原理、技术与系统.pdf'>搜索引擎-原理、技术与系统.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/软件测试的艺术.pdf'>软件测试的艺术.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/第十三章_开发JPA应用.pdf'>第十三章_开发JPA应用.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/程序员羊皮卷下载版.pdf'>程序员羊皮卷下载版.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/代码之美中文版.pdf'>代码之美中文版.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/rcp.rar'>rcp.rar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Java语言中Timer类的简洁用法.doc'>Java语言中Timer类的简洁用法.doc</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/云计算及其在银行业应用探讨'>云计算及其在银行业应用探讨</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/人月神话中文版'>人月神话中文版</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/人月神话.pdf'>人月神话.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/v1.0.pdf'>v1.0.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/struts_libs.rar'>struts_libs.rar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/java代码重构经验总结.txt'>java代码重构经验总结.txt</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/第5章_Struts标签库.ppt'>第5章_Struts标签库.ppt</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/struts所需的jar包汇总'>struts所需的jar包汇总</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jpa开发手册.doc'>jpa开发手册.doc</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/带有翻页功能的TableViewer.rar'>带有翻页功能的TableViewer.rar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-digester-1.7.jar'>commons-digester-1.7.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-fileupload.jar'>commons-fileupload.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-httpclient-3.1.jar'>commons-httpclient-3.1.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-dbcp-1.2.1.jar'>commons-dbcp-1.2.1.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-beanutils-1.7.jar'>commons-beanutils-1.7.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ant-junit-1.6.5.jar'>ant-junit-1.6.5.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ant-launcher-1.6.5.jar'>ant-launcher-1.6.5.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/bcprov-jdk15-140.jar'>bcprov-jdk15-140.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-io-1.2.jar'>commons-io-1.2.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-math-1.0.jar'>commons-math-1.0.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jboss-system.jar'>jboss-system.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/junit-3.8.1.jar'>junit-3.8.1.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/hibernate3-hql.jar'>hibernate3-hql.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jboss-jmx.jar'>jboss-jmx.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jboss-common.jar'>jboss-common.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/commons-pool-1.3.jar'>commons-pool-1.3.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/freemarker-2.3.10.jar'>freemarker-2.3.10.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jboss-cache.jar'>jboss-cache.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Configuration'>Configuration</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/深入理解计算机系统（原书第2版）.pdf'>深入理解计算机系统（原书第2版）.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/v2.4.3'>v2.4.3</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Compare'>Compare</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Beyond'>Beyond</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/build'>build</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/0'>0</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/ant安装包'>ant安装包</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/apache'>apache</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/简体中文版'>简体中文版</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/beta2'>beta2</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/6.5'>6.5</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/3.0'>3.0</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/EJB'>EJB</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/EE应用程序'>EE应用程序</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/在'>在</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/WAS'>WAS</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Foxmail'>Foxmail</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Java类变量和方法介绍'>Java类变量和方法介绍</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/上开发部署的最佳实践'>上开发部署的最佳实践</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/IBM+Rational+Software+Architect建模.pdf'>IBM+Rational+Software+Architect建模.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Spring'>Spring</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Firefox'>Firefox</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/开发指南_V1.0.pdf'>开发指南_V1.0.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Axis1.4'>Axis1.4</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Setup'>Setup</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/3.0.1.exe'>3.0.1.exe</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/struts教程'>struts教程</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/hibernate'>hibernate</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jQuery基础教程'>jQuery基础教程</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/struts2标签库详解'>struts2标签库详解</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/RCP入门教程.pdf'>RCP入门教程.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jfreechart'>jfreechart</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Linux程序员指南.pdf'>Linux程序员指南.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/2.5参考手册（chm中文版）.chm'>2.5参考手册（chm中文版）.chm</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jars'>jars</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/FirefoxSetup3.6.8_cn.zip'>FirefoxSetup3.6.8_cn.zip</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/RCP程序设计.pdf'>RCP程序设计.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jfreechart-1.0.9.jar'>jfreechart-1.0.9.jar</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/JFreeChart入门_-_使用JFreeChart开发Pie(饼状图)'>JFreeChart入门_-_使用JFreeChart开发Pie(饼状图)</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/thunder.zip'>thunder.zip</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/7.0构建Java'>7.0构建Java</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/7.5和WAS'>7.5和WAS</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/z(RDz)'>z(RDz)</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/System'>System</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/for'>for</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/[jQuery]jQuery'>[jQuery]jQuery</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/jQuery'>jQuery</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/1.2.chm'>1.2.chm</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Reference'>Reference</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/UI'>UI</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Developer'>Developer</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Rational'>Rational</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/plsqldev'>plsqldev</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/pl/sql'>pl/sql</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Guide'>Guide</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Developing'>Developing</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Debugging'>Debugging</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Using'>Using</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Programs'>Programs</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/CICS'>CICS</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Eclipse'>Eclipse</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Rich'>Rich</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/TortoiseSVN-1.6.10.19898-win32-svn-1.6.12.msi'>TortoiseSVN-1.6.10.19898-win32-svn-1.6.12.msi</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/打开就能用'>打开就能用</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/无需安装'>无需安装</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/客户端安装包'>客户端安装包</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Setup-Subversion-1.6.6.msi'>Setup-Subversion-1.6.6.msi</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/使用RAD'>使用RAD</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/server'>server</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/svn'>svn</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/飞秋FeiQ.exe'>飞秋FeiQ.exe</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/绿色免安装版'>绿色免安装版</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Designing'>Designing</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Platform'>Platform</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Client'>Client</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Coding'>Coding</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Packaging'>Packaging</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/notepad++'>notepad++</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/npp.5.7.1.Unicode.RC.zip'>npp.5.7.1.Unicode.RC.zip</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Applications.pdf'>Applications.pdf</a>&nbsp;&nbsp;
+										<a href='/user/boyone2009/Java'>Java</a>&nbsp;&nbsp;
+							        </ul>
+			</dd>
+<!--			
+			<dt>收到的最新评论</dt>
+			<dd id="commentedlist">
+			</dd>
+-->			
+			<dt><a href="http://download.csdn.net/user/downlist/boyone2009">下载过的资源</a></dt>
+			<dd>
+			    <ul>
+			    	
+<li><a href='http://download.csdn.net/source/1848445'>db2java.jar  db2java.jar</a>
+<li><a href='http://download.csdn.net/source/535882'>struts框架jar包</a>
+<li><a href='http://download.csdn.net/source/3044939'>JavaScript 设计模式</a>
+		        </ul>
+			</dd>
+			</dl>
+	  </div>
+		
+		<div class="clear"></div>
+    </div>
+  
+<script>document.write("<img src=http://counter.csdn.net/pv.aspx?id=161 border=0 width=0 height=0>");</script>
+    <div id="pubfooter">
+<script src="http://csdnimg.cn/pubfooter/js/publib_footer.js" type="text/javascript"></script>
+   
+   </div>
+<script src="http://download.csdn.net/js/counter.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>
+
